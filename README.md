@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-This will contain my reading notes for cr201n1
+This will contain my reading notes for **cr201n1**
 
 ## Table of contents
 *Note: Some listed items are currently placeholders*
