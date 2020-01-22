@@ -5,7 +5,7 @@ This will contain my reading notes for **cr201n1**
 ## Table of contents
 *Note: Some listed items are currently placeholders*
 
-1. Read01
+1. [Read01](https://github.com/Janglybits/ReadingNotes/blob/master/Class-01.md)
 2. Read02
 3. Read03
 4. Read04
