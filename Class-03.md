@@ -1,6 +1,6 @@
 Read03 True or False questions
 
-1. True or False? The `<dl>`, `<dt>`, and `<dd>` elements are usedwhen creating a definition list?
+1. True or False? The `<dl>`, `<dt>`, and `<dd>` elements are used when creating a definition list?
 
 2. True or False? You can use `<ul>` tags between `<li>` tags to create an unordered nested list?
 
